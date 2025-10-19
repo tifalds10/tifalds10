@@ -42,9 +42,9 @@ I believe that consistency, creativity, and kindness can lead to beautiful growt
 ---
 
 💌 *Let’s Connect!*  
-- 📧 Email: yourname@email.com  
+- 📧 Email: tifafanny05@email.com  
 - 🌐 Website: [yourwebsite.com](#)  
-- 📷 Instagram: [@yourusername](#)  
+- 📷 Instagram: [@fian_safi](#)  
 
 ---
 
