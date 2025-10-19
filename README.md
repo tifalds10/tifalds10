@@ -38,9 +38,9 @@ or 🎧 *listening to music*, I find inspiration in calm, creative moments.
 ---
 
 ### 💌 Let’s Connect
-- 📧 Email: yourname@email.com  
-- 🌐 Website: [yourwebsite.com](#)  
-- 📷 Instagram: [@yourusername](#)  
+- 📧 Email: tifafanny05@email.com  
+- 🌐 Website: [yoothisistiffa.com](#)  
+- 📷 Instagram: [@fian_safi](#)  
 
 ---
 
