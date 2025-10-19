@@ -1,72 +1,52 @@
-<!-- 🌿 Elegant Purple Banner -->
+<!-- 💜 Minimalist & Elegant Profile -->
+<h2 align="center">Hi, I’m Tifa! 🌸</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tifatriana/tifatriana/main/A_digital_graphic_design_banner_features_a_purple_.png" width="100%">
-</p>
-
-<h2 align="center">💜 Tifa — Where Creativity Meets Calm</h2>
-<p align="center">
-  <em>Business Administration Student | Creative Mind | Lifelong Learner</em>
+  <em>Where Creativity Meets Calm</em>
 </p>
 
 ---
 
-🌷 *Welcome to My Little Space!*  
-Hi, I’m *Tifa* 💜  
-🎓 A Business Administration student from *STIKOM El Rahma Bogor*, Indonesia 🇮🇩  
-✨ Passionate about combining creativity, curiosity, and purpose in everything I do.  
+### 🌷 About Me
+Hi! I’m *Tifa* 💜  
+🎓 A *Business Administration* student at STIKOM El Rahma Bogor, Indonesia 🇮🇩  
+✨ Passionate about blending creativity, business, and mindfulness in everything I do.
 
 ---
 
-🎨 *A Glimpse of Me*  
-I find joy in simple things that spark imagination 💭  
-From 🎬 movies and 📚 books to 🎨 drawing, ✍️ writing, and 🎧 listening to music —  
-each one helps me grow, stay inspired, and see beauty in the little things 🌸  
+### 🎨 What I Love
+I’m happiest when I’m creating or learning something new 🌿  
+Whether it’s 🎬 *watching films, 📚 **reading books, 🎨 **drawing, ✍️ **writing*,  
+or 🎧 *listening to music*, I find inspiration in calm, creative moments.  
 
-I believe that consistency, creativity, and kindness can lead to beautiful growth 🌱  
-
----
-
-🌼 *What I’m Exploring*  
-- 💼 Business management, marketing, and digital entrepreneurship  
-- 🪶 Writing stories & reflections that nurture self-growth  
-- 📈 Learning creative communication and project ideas  
-- ☕ Balancing logic and imagination in everyday life  
+> “A calm mind sparks the best ideas.”
 
 ---
 
-🌈 *My Intentions & Dreams*  
-- 🌸 Build meaningful projects where business meets art  
-- 🌿 Keep learning every day, no matter how small the step  
-- 💫 Inspire others through creativity and positive energy  
+### 🌼 Currently Exploring
+- 💼 Business & digital entrepreneurship  
+- 🪶 Creative writing and personal storytelling  
+- 📈 Marketing and project management  
+- ☕ Finding balance between logic & imagination  
 
 ---
 
-💌 *Let’s Connect!*  
-- 📧 Email: tifafanny05@email.com  
+### 💫 My Dreams & Intentions
+- 🌸 Build something meaningful that connects art and business  
+- 🌿 Keep learning every day — even in small steps  
+- 💜 Spread creativity and positive energy wherever I go  
+
+---
+
+### 💌 Let’s Connect
+- 📧 Email: yourname@email.com  
 - 🌐 Website: [yourwebsite.com](#)  
-- 📷 Instagram: [@fian_safi](#)  
+- 📷 Instagram: [@yourusername](#)  
 
 ---
 
-💜 *Tiny Badges That Define Me*  
+### 🌈 A Few Words That Define Me
 🎓 Business Student  
-📚 Book & Film Enthusiast  
-🎧 Music Lover  
-🎨 Visual & Creative Thinker  
+🎧 Music & Art Lover  
+📚 Bookworm  
 🪶 Writer at Heart  
-🌱 Growth Seeker  
-
----
-
-> 💭 *"Calm mind, creative heart, continue
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Growth Seeker
