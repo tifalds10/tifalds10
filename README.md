@@ -1,6 +1,6 @@
 <!-- 🌿 Elegant Purple Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tifatriana/tifatriana/main/purple-banner.png" alt="Purple Elegant Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/tifatriana/tifatriana/main/A_digital_graphic_design_banner_features_a_purple_.png" width="100%">
 </p>
 
 <h2 align="center">💜 Tifa — Where Creativity Meets Calm</h2>
