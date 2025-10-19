@@ -1,6 +1,6 @@
 <!-- 🌿 Elegant Purple Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/nBd9yL6/purple-banner.png" alt="Purple Elegant Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/tifatriana/tifatriana/main/purple-banner.png" alt="Purple Elegant Banner" width="100%">
 </p>
 
 <h2 align="center">💜 Tifa — Where Creativity Meets Calm</h2>
@@ -20,11 +20,45 @@ Hi, I’m *Tifa* 💜
 🎨 *A Glimpse of Me*  
 I find joy in simple things that spark imagination 💭  
 From 🎬 movies and 📚 books to 🎨 drawing, ✍️ writing, and 🎧 listening to music —  
-each## Hi there 👋
+each one helps me grow, stay inspired, and see beauty in the little things 🌸  
 
-<!--
-**tifalds10/tifalds10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe that consistency, creativity, and kindness can lead to beautiful growth 🌱  
 
+---
+
+🌼 *What I’m Exploring*  
+- 💼 Business management, marketing, and digital entrepreneurship  
+- 🪶 Writing stories & reflections that nurture self-growth  
+- 📈 Learning creative communication and project ideas  
+- ☕ Balancing logic and imagination in everyday life  
+
+---
+
+🌈 *My Intentions & Dreams*  
+- 🌸 Build meaningful projects where business meets art  
+- 🌿 Keep learning every day, no matter how small the step  
+- 💫 Inspire others through creativity and positive energy  
+
+---
+
+💌 *Let’s Connect!*  
+- 📧 Email: yourname@email.com  
+- 🌐 Website: [yourwebsite.com](#)  
+- 📷 Instagram: [@yourusername](#)  
+
+---
+
+💜 *Tiny Badges That Define Me*  
+🎓 Business Student  
+📚 Book & Film Enthusiast  
+🎧 Music Lover  
+🎨 Visual & Creative Thinker  
+🪶 Writer at Heart  
+🌱 Growth Seeker  
+
+---
+
+> 💭 *"Calm mind, creative heart, continue
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
