@@ -15,8 +15,8 @@ Hi! I’m *Tifa* 💜
 
 ### 🎨 What I Love
 I’m happiest when I’m creating or learning something new 🌿  
-Whether it’s 🎬 *watching films, 📚 **reading books, 🎨 **drawing, ✍️ **writing*,  
-or 🎧 *listening to music*, I find inspiration in calm, creative moments.  
+Whether it’s 🎬 watching films, 📚 reading books, 🎨 drawing, ✍️ writing,  
+or 🎧 listening to music, I find inspiration in calm, creative moments.  
 
 > “A calm mind sparks the best ideas.”
 
@@ -38,7 +38,7 @@ or 🎧 *listening to music*, I find inspiration in calm, creative moments.
 ---
 
 ### 💌 Let’s Connect
-- 📧 Email: tifafanny05@email.com  
+- 📧 Email: tifafanny@email.com  
 - 🌐 Website: [yoothisistiffa.id](#)  
 - 📷 Instagram: [@fian_safi](#)  
 
